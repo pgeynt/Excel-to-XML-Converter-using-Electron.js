@@ -1,0 +1,16 @@
+{
+  "name": "warlike-group-awake-gdzvd",
+  "productName": "warlike-group-awake-gdzvd",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "sakar",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
